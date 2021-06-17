@@ -1,0 +1,21 @@
+.ios .iosOnly,
+.android .androidOnly,
+.twitter .twitterOnly,
+.instagram .instagramOnly,
+.tiktok .tiktokOnly,
+.snapchat .snapchatOnly {
+  display: unset;
+}
+
+#introScreenDesktop {
+  background-image: url(./header.jpg);
+  background-size: cover;
+}
+
+#introBottom {
+  padding-bottom: 50px;
+  background-image: url(./strap.png), linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 80%);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
