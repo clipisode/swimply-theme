@@ -21,3 +21,19 @@
     background-size: cover;
   }
 }
+
+#recordButton {
+  color: white;
+  text-shadow: 1px 1px 3px #00000077;
+  background-color: #00cbea;
+}
+
+#uploadLink {
+  color: white;
+  text-shadow: 1px 1px 3px #00000077;
+  background-color: #00cbea;
+}
+
+#introTerms a {
+  color: #00cbea;
+}

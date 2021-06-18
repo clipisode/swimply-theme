@@ -44,12 +44,11 @@ export const siteData: SiteData = {
     markup: `
       <div class="flex flex-grow flex-col items-center justify-between">
         <div>
-          <p class="mt-12 mb-12 mx-3 text-center">Nice work! Your video reply for <b>INVITATION_DISPLAY_NAME</b> <span class="whitespace-nowrap">was sent.</span></p>
+          <p class="mt-12 mb-12 mx-3 text-center">Nice work!<br /><br />Your video reply for <b>INVITATION_DISPLAY_NAME</b> <span class="whitespace-nowrap">was sent.</span></p>
           <div class="m-2">
             <a href="https://swimply.com">
               <img src="THEME_FILE_ROOT/logo.png" style="width: 220px; margin: 0 auto;" />
             </a>
-            <p class="mt-12 mb-12 mx-3 text-center">Escape locally.</p>
           </div>
         </div>
       </div>
