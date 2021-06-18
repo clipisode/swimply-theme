@@ -7,9 +7,9 @@
   display: unset;
 }
 
-#introBottom {
+#introTop {
   padding-bottom: 50px;
-  background-image: url(./strap.png), linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 80%);
+  background-image: url(./strap.png), linear-gradient(rgba(0, 0, 0, 0.75) 80%, rgba(0, 0, 0, 0) 0%);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -28,7 +28,7 @@
   background-color: #00cbea;
 }
 
-#uploadLink a {
+#uploadLink span {
   color: #00cbea;
 }
 
