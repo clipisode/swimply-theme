@@ -15,7 +15,7 @@
   background-position: bottom;
 }
 
-@media only screen and (min-width:961px) {
+@media only screen and (min-device-width:961px) {
   body {
     background: url(./header.jpg) no-repeat center center fixed;
     background-size: cover;
