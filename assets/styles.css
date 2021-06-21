@@ -26,6 +26,10 @@
   #introBottom {
     background-image: url(./strap.png);
   }
+  body {
+    margin-top: 100px;
+    background-color: yellow;
+  }
 }
 
 #recordButton {
