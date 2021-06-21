@@ -9,13 +9,13 @@
 
 #introBottom {
   padding-bottom: 60px;
-  background-image: url(./strap.png), linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 80%);
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 80%), url(./strap.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
 }
 
-@media only screen and (min-device-width:961px) {
+@media only screen and (min-device-width:768px) {
   body {
     background: url(./header.jpg) no-repeat center center fixed;
     background-size: cover;
