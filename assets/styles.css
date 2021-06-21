@@ -22,6 +22,12 @@
   }
 }
 
+@media only screen and (max-device-width:960px) {
+  #introBottom {
+    background-image: url(./strap.png);
+  }
+}
+
 #recordButton {
   color: white;
   text-shadow: 1px 1px 3px #00000077;
