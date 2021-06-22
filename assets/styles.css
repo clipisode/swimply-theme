@@ -39,6 +39,12 @@
   background-color: #00cbea;
 }
 
+#nameScreen #button, #emailScreen #button {
+  color: white;
+  text-shadow: 1px 1px 3px #00000077;
+  background-color: #00cbea;
+}
+
 #uploadLink span {
   color: #00cbea;
 }
