@@ -25,6 +25,12 @@
     padding-bottom: 80px;
     background-image: none, url(./strap.png);
   }
+  #uploadLink {
+    color: black;
+  }
+  #introTerms {
+    color: black;
+  }
 }
 
 #recordButton {
